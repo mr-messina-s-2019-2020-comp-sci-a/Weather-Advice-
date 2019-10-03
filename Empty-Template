@@ -1,1 +1,2 @@
-This is not a real file - just a place holder to let my students upload stuff
+public static void main{
+System.out.prinln("This is not a real file - just a place holder to let my students upload stuff");}
