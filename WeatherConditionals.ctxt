@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=WeatherConditionals
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ WeatherConditionals\ here.\r\n\r\n\ @author\ (matthew\ haywood)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=WeatherConditionals()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WeatherConditionals\r\n
+comment2.params=stuff
+comment2.target=void\ setTemperature(int)
+comment3.params=
+comment3.target=int\ getTemperature()
+comment4.params=userInput
+comment4.target=void\ setDescription(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getDescription()
+comment6.params=temperature\ description
+comment6.target=void\ getWeatherAdvice(int,\ java.lang.String)
+numComments=7
